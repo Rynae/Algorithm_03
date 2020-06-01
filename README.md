@@ -1,6 +1,6 @@
 # Algorithm_03
 
-#### Case 1
+## Case 1
 
 #### 1. Model 
 ![2](https://user-images.githubusercontent.com/39721769/83442586-5ca1cc80-a483-11ea-8b9d-88467619f266.PNG)
@@ -14,7 +14,7 @@
 #### 5. Images and corresponding probability that predicted Wrong
 ![7](https://user-images.githubusercontent.com/39721769/83442722-996dc380-a483-11ea-824d-3e32c5151bc5.PNG)
 
-#### Case 2
+## Case 2
 
 #### 1. Model 
 ![8](https://user-images.githubusercontent.com/39721769/83446308-69292380-a489-11ea-8168-95a67d94ef78.PNG)
@@ -28,7 +28,7 @@
 #### 5. Images and corresponding probability that predicted Wrong
 ![13](https://user-images.githubusercontent.com/39721769/83446294-66c6c980-a489-11ea-9fa9-69be5419d18b.PNG)
 
-#### Case 3
+## Case 3
 
 #### 1. Model 
 ![14](https://user-images.githubusercontent.com/39721769/83446296-675f6000-a489-11ea-9672-977e2ab37a36.PNG)
